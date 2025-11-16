@@ -1,2 +1,2 @@
-version=1.0
-introduction=便捷的scratch伪系统
+1.0
+便捷的scratch伪系统
